@@ -1,1 +1,30 @@
-# trnaScripts
+Scripts used to analyze Drosophila non-coding rna evolution. 
+
+1. run_tRNAscan-SE_2.09.sh
+2. countAnticodonsAndIsotypes.sh
+3. getHighConfidencetRNAs.sh
+4. getTRNAfa.sh
+5. getProtfa.sh
+6. makeOrder.sh
+7. prepare_ln_command.sh
+8. ln_command.sh
+9. getAnchors.sh
+10. getBlockFasta.sh
+11. makeDBs.sh
+12. runBlastnBlastp.sh
+13. getchrsize.sh
+14. searchAnchorRegions.sh
+15. ageDating.sh
+16. reciprocalRelationship.sh
+17. getRates.sh
+18. prepare4SelectionTests.sh
+19. subset.sh
+20. originationAnalysis.sh
+21. chromosome_movement.xlsx
+22. tRNAEvolution.R
+23. makeGFF4plotting.sh
+24. synteny.R
+25. selection.R
+26. getStats.sh
+27. joinWindowedStats.sh
+28. combineRatioFst.sh
